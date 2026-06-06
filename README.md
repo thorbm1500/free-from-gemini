@@ -1,4 +1,4 @@
-# Free From Gemini
+# Free From Gemini (FFG)
 Too much AI is being forced upon users of various platforms.
 One of these platforms is Google Drive with the services like Google Docs, Google Sheets, etc.<br>
 
