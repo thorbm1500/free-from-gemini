@@ -1,0 +1,14 @@
+{
+  "name": "Free From Gemini",
+  "description": "Free yourself from Google's attempt at forcing Gemini down your throat, when using Google Drive services. Specifically removes the Gemini button from the top taskbar.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": ["script.js"],
+      "matches": [
+        "https://docs.google.com/*"
+      ]
+    }
+  ]
+}
